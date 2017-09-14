@@ -2,3 +2,9 @@
 完成了2个大屏幕的静态模版(导航菜单与列表显示)
 未完成数据动态加载
 
+17-9-10
+完成数据加载(FrontController添加了centerGeneral与openContent方法)
+未完成列表内容动态加载
+
+
+
